@@ -62,4 +62,4 @@ bar_robot.py
 Living example
 --------------
 
-https://wave.google.com/wave/#restored:wave:googlewave.com!w%252BeVbr7mRiA
+[Public Sample Wave](https://wave.google.com/wave/#restored:wave:googlewave.com!w%252BeVbr7mRiA)
